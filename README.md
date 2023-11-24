@@ -1,1 +1,1 @@
-# solidity-ini-20minutes
+# solidity-learning
