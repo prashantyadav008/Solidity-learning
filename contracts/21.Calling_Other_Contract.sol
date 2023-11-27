@@ -19,7 +19,8 @@ contract SecretVault {
     }
 }
 
-contract Call_Other_Contract {
+// SecretVault contract functions using SecretVault address
+contract Calling_Other_Contract {
     SecretVault public secretVault;
 
     constructor(SecretVault _secretValue) {

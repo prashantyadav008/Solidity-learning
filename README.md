@@ -1,6 +1,8 @@
 ## Leaning Solidity
 
-There are many basic contracts which help in learning solidity, it covers every contract topic so that you can learn solidity quickly. And I have deployed one smart contract. If you want to experiment, you can deploy the rest of the contracts on any network and write its test cases, I have covered how to write testcases in <a target="_blank" href="https://github.com/prashantyadav008"> "Hardhat-Setup" </a> repository. You can also checkout as soon as you use it.
+There are many basic contracts which help in learning solidity, it covers every contract topic so that you can learn solidity quickly. And I have deployed one smart contract. If you want to experiment, you can deploy the rest of the contracts on any network and write its test cases, I have covered how to write testcases in <a target="_blank" href="https://github.com/prashantyadav008/Hardhat-Setup"> Hardhat-Setup </a> repository. You can also checkout as soon as you use it.
+
+---
 
 ## Simply Setup Hardhat
 
